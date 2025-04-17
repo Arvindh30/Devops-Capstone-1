@@ -15,7 +15,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - name: dcp2_container
-        image: arvindh01/dcp2_image
+      - name: dcp2container
+        image: arvindh01/dcp2image
         ports:
         - containerPort: 80
